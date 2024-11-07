@@ -1,2 +1,2 @@
 ## 💻 📝 What I learned
-Stepper, DatePicker, DateFormatter, Create ML, Core ML
+Stepper, DatePicker, Date, DateComponents, Create ML, Core ML
